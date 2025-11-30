@@ -21,4 +21,4 @@ artifacts:
 
 cache:
   paths:
-    - '/root/.cache/pip/**/*'
+    - '/root/.m2/**/*'
