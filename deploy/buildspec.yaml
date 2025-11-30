@@ -18,3 +18,7 @@ phases:
 artifacts:
   files:
     - '__pycache__/main.cpython-39.pyc'
+
+cache:
+  paths:
+    - '/root/.cache/pip/**/*'
